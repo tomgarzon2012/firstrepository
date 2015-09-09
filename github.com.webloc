@@ -4,5 +4,11 @@
 <dict>
 	<key>URL</key>
 	<string>https://github.com/</string>
+	<string>www.facebook.com/</string>
 </dict>
 </plist>
+<<dict>
+	<key>URL<key>
+		<string>https://github.com/</string>
+		<string>www.facebook.com/</string>
+</dict>
